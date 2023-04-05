@@ -1,0 +1,12 @@
+payload:
+#Google API
+  - DOMAIN-SUFFIX,26644787.googleapis.com
+  - DOMAIN-SUFFIX,31061001.googleapis.com
+  - DOMAIN-SUFFIX,edgetp1.googleapis.com
+  - DOMAIN-SUFFIX,edgetp2.googleapis.com
+  - DOMAIN-SUFFIX,edgetp3.googleapis.com
+  - DOMAIN-SUFFIX,edgetp4.googleapis.com
+  - DOMAIN-SUFFIX,test-hilbertdevicesync-pa.sandbox.googleapis.com
+  - DOMAIN-SUFFIX,mqtt.googleapis.com
+  - DOMAIN-SUFFIX,chief-cdn.storage.googleapis.com
+  - DOMAIN-KEYWORD,googleapis
